@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-df_yield = pd.read_csv('/Users/sthoman/Documents/DGS10.csv')
-df_cpi = pd.read_csv('/Users/sthoman/Documents/CPIAUCSL.csv')
+df_yield = pd.read_csv('DGS10.csv')
+df_cpi = pd.read_csv('CPIAUCSL.csv')
 
 df_yield['date'] = pd.to_datetime(df_yield['observation_date'])
 df_yield['10Y_yield'] = pd.to_numeric(df_yield['DGS10'], errors='coerce')
