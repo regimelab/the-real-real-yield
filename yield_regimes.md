@@ -1,0 +1,10 @@
+- Premise: TIPS_real = implied; breakeven = nominal - TIPS.  
+- Issue: Published real yields biased if realized inflation > expected long-run inflation.  
+- 2022_note: Peak CPI ≈9% then; now <<9% so magnitude smaller.  
+- Mechanisms: Nominal_y↑ because {growth_up, term_premium↑, inflation_expectations↑, policy_rate_moves}.  
+- Equity_response: If yield_rise => growth_signal or lower recession_risk ⇒ equities ↑; if yield_rise ⇒ inflation_re-accel or policy-tightening ⇒ equities ↓.  
+- Diagnosis_flow: Observe: breakeven_change, TIPS_real_change, nominal_change, growth_leading_indicators, term_premium_estimate, Fed_signals.  
+- Practical_rule: Translate nominal into real by subtracting realized/expected inflation path; evaluate whether earnings_growth > discount_rate_increase.  
+- Quick_checks (yes/no): breakevens rising?; real TIPS rising?; forward inflation swaps increasing?; payrolls/PMIs improving?; Fed dot-shift?  
+- Example token: Nom4.5@ExpInf2 → real ≈2.5; if ExpInf→4 → real→0.5.  
+- Actionable_outcomes: (A) If growth-led: overweight equities; (B) If inflation-led: prefer inflation-protected assets and shorter-duration; (C) If term-premium-led: mixed—focus on sector rotation.
